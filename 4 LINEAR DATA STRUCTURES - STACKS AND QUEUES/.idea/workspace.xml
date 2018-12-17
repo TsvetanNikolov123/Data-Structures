@@ -12,49 +12,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01LinkedList/LinkedListTests.java">
+        <entry file="file://$PROJECT_DIR$/src/p02CircularQueue/CircularQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p01LinkedList/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#1986#1987#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1101#1102#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#2611#2612#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="500">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01LinkedList/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/p02CircularQueue/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            <state relative-caret-position="200">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p02CircularQueue/CircularQueueTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,10 +55,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/p01LinkedList/LinkedListTests.java" />
-        <option value="$PROJECT_DIR$/src/p02CircularQueueJavaSkeleton/Main.java" />
         <option value="$PROJECT_DIR$/src/p02LinkedListJavaSkeleton/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/p01LinkedList/Main.java" />
         <option value="$PROJECT_DIR$/src/p01LinkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListTests.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/p02CircularQueueJavaSkeleton/CircularQueue.java" />
+        <option value="$PROJECT_DIR$/src/p02CircularQueueJavaSkeleton/Main.java" />
+        <option value="$PROJECT_DIR$/src/p02CircularQueue/CircularQueue.java" />
       </list>
     </option>
   </component>
@@ -86,7 +72,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="530" />
@@ -97,6 +83,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,13 +106,12 @@
               <item name="4 LINEAR DATA STRUCTURES - STACKS AND QUEUES" type="b2602c69:ProjectViewProjectNode" />
               <item name="4 LINEAR DATA STRUCTURES - STACKS AND QUEUES" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p02CircularQueueJavaSkeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="p02CircularQueue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +121,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545988902325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545042444380" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -162,7 +148,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListTests">
+  <component name="RunManager" selected="JUnit.CircularQueueTests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p02CircularQueue.Main" />
+      <module name="4 LINEAR DATA STRUCTURES - STACKS AND QUEUES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p02CircularQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularQueueTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4 LINEAR DATA STRUCTURES - STACKS AND QUEUES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p02CircularQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p02CircularQueue" />
+      <option name="MAIN_CLASS_NAME" value="p02CircularQueue.CircularQueueTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="4 LINEAR DATA STRUCTURES - STACKS AND QUEUES" />
       <extension name="coverage">
@@ -211,6 +224,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CircularQueueTests" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.LinkedListTests" />
         <item itemvalue="JUnit.LinkedListTests.addLastShouldIncreaseCount" />
         <item itemvalue="JUnit.LinkedListTests.addFirstShouldIncreaseCount" />
@@ -228,51 +243,62 @@
       <option name="presentableId" value="Default" />
       <updated>1545666853029</updated>
       <workItem from="1545666856322" duration="1369000" />
-      <workItem from="1545824032128" duration="9389000" />
+      <workItem from="1545824032128" duration="9844000" />
+      <workItem from="1546101797408" duration="5986000" />
+      <workItem from="1545042367831" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkedListTests_addFirstShouldIncreaseCount - 2018.12.26 at 18h 10m 09s.xml">
-      <configuration name="LinkedListTests.addFirstShouldIncreaseCount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTests_addLastShouldIncreaseCount - 2018.12.26 at 18h 10m 18s.xml">
-      <configuration name="LinkedListTests.addLastShouldIncreaseCount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTests - 2018.12.26 at 18h 10m 36s.xml">
-      <configuration name="LinkedListTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTests - 2018.12.26 at 18h 15m 49s.xml">
-      <configuration name="LinkedListTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTests - 2018.12.27 at 17h 31m 03s.xml">
-      <configuration name="LinkedListTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LinkedListTests - 2018.12.27 at 17h 34m 15s.xml">
       <configuration name="LinkedListTests" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LinkedListTests - 2018.12.28 at 11h 08m 12s.xml">
       <configuration name="LinkedListTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LinkedListTests - 2018.12.28 at 11h 18m 44s.xml">
+      <configuration name="LinkedListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.30 at 11h 53m 23s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.30 at 11h 54m 00s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.31 at 12h 07m 34s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.31 at 12h 11m 10s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.31 at 12h 13m 59s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.31 at 12h 14m 20s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CircularQueueTests - 2018.12.17 at 12h 27m 33s.xml">
+      <configuration name="CircularQueueTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10758000" />
+    <option name="totallyTimeSpent" value="17291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14026846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45810056" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45251396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.51675975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -281,6 +307,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,12 +322,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p02CircularQueue/Main.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p02CircularQueueJavaSkeleton/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p02LinkedListJavaSkeleton/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/p02LinkedListJavaSkeleton/LinkedListTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkedListTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/p01LinkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+          <folding>
+            <element signature="e#1945#1946#0" expanded="true" />
+            <element signature="e#1986#1987#0" expanded="true" />
+            <element signature="e#2569#2570#0" expanded="true" />
+            <element signature="e#2611#2612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/p01LinkedList/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -311,34 +363,33 @@
     <entry file="file://$PROJECT_DIR$/src/p01LinkedList/LinkedListTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p01LinkedList/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/p02CircularQueue/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02CircularQueue/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02CircularQueue/CircularQueueTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#1986#1987#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#2611#2612#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

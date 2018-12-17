@@ -1,11 +1,11 @@
-package p02CircularQueueJavaSkeleton;
+package p02CircularQueue;
 
 import java.util.Arrays;
 
 public class Main {
 
     public static void main(String[] args) {
-
+        String debug = "";
         CircularQueue<Integer> queue = new CircularQueue<>();
 
         queue.enqueue(1);

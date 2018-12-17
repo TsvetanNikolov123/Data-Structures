@@ -1,4 +1,4 @@
-package p02CircularQueueJavaSkeleton;
+package p02CircularQueue;
 
 import org.junit.Assert;
 import org.junit.Test;
