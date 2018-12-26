@@ -4,9 +4,8 @@ import java.util.Iterator;
 
 /**
  * It gives me TIME LIMIT on every test i judge.
- *
- * @param <T>
  */
+
 public class ReversedList<T> implements Iterable {
     private T[] elements;
     private int size;
